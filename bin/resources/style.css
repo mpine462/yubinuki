@@ -1,0 +1,44 @@
+.button-style {
+    -fx-pref-width: 230px;
+    -fx-pref-height: 47px;
+    -fx-font-size: 20px;
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.custom-menu-label {
+    -fx-pref-width: 200px;
+    -fx-padding: 8px 12px;    
+    -fx-alignment: center;
+    -fx-text-alignment: center;  
+}
+
+/* カラーピッカー用ラベル */
+.color-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: rgb(0, 0, 0);
+    -fx-padding: 10 20;
+    -fx-background-radius: 4;
+    -fx-alignment: center;
+}
+.color1 {
+    -fx-background-color: #6373FF;
+}
+
+.color2 {
+    -fx-background-color: #63FFAC;
+}
+
+.color3 {
+    -fx-background-color: #DCFF63;
+}
+
+.color4 {
+    -fx-background-color: #FF6395;
+}
+
+.resetButton-style{
+    -fx-font-size: 15px;
+    -fx-text-fill:#8C8C8C;
+    -fx-background-color: #86868600;
+}

@@ -1,0 +1,49 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "kadai_20250629_dc12c9f4"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "kadai_20250629",
+            "vmArgs": "--module-path=\"C:/Program Files/JAVAFX/javafx-sdk-24.0.1/lib\" --add-modules=javafx.controls,javafx.fxml,javafx.swing"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "main.App",
+            "projectName": "test_64a72bf1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "test_64a72bf1",
+            "vmArgs": "--module-path \"C:/Program Files/JAVAFX/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+    {
+      "type": "java",
+      "name": "Run JavaFX App",
+      "request": "launch",
+      "mainClass": "App",
+      "vmArgs": "--module-path \"C:\\Program Files\\JAVAFX\\javafx-sdk-24.0.1\\lib\" --add-modules javafx.controls,javafx.fxml"
+    }
+]
+}
